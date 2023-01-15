@@ -55,4 +55,7 @@
   <!-- Whether key handler sends intent when changing slider position -->
   <string name="config_alertSliderIntent"></string>
 
+    <!-- Enforce DisplayModeDirector to select user preferred resolution -->
+    <bool name="config_forceToUseSelectedResolution">false</bool>
+
 </resources>
